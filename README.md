@@ -3,7 +3,7 @@
 
 ## Overview
 
-**FaceTraitsAnalyzer** is a Django-based web application designed for age and gender detection in images. By utilizing OpenCV and pre-trained models, the application allows users to upload images and receive real-time analysis of facial features. This web app performs precise age and gender detection, overlaying the results on the images, providing users with valuable insights in a simple and interactive manner.
+**Age Detection Web App ** is a Django-based web application designed for age and gender detection in images. By utilizing OpenCV and pre-trained models, the application allows users to upload images and receive real-time analysis of facial features. This web app performs precise age and gender detection, overlaying the results on the images, providing users with valuable insights in a simple and interactive manner.
 
 ## Key Features
 
