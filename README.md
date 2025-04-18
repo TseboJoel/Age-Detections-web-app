@@ -1,5 +1,5 @@
 
-# Age and Gender Detection Web App 👦👩🔍
+# Age Detection Web App 👦👩🔍
 
 ## Overview
 
